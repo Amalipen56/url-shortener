@@ -23,3 +23,4 @@ Key features
 - Fully serverless — no EC2, no servers, no maintenance
 - Infrastructure as Code with Terraform
 - PAY_PER_REQUEST DynamoDB — costs nothing at low volume
+
