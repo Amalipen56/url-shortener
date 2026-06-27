@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState} from "react";
 import Shortener from "./components/Shortener";
 import Dashboard from "./components/Dashboard";
 import "./App.css";
